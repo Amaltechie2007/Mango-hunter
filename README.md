@@ -1,1 +1,2 @@
-# Mango-hunter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
